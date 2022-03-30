@@ -9,4 +9,4 @@ console.log("Delicious! May I have another?");
 
 let leftOver = remove(food, foods);
 
-console.log(`I'm sorry, we're all out. We have ${leftOver} left.`)
+console.log(`I'm sorry, we're all out. We have ${leftOver.length} left.`)
